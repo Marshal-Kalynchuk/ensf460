@@ -6,7 +6,7 @@ These projects were a collaborative effort with my talented teammates:
 
 + Marshal Kalynchuk
 + Maged El Habiby
-+ Mazen El Habiby
++ Mazen El Habiby | https://github.com/mazen-elhabiby
 
 Their contributions were vital in the successful completion of these projects, and their skills in embedded programming significantly enhanced our group's work.
 
