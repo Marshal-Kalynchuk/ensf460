@@ -1,4 +1,4 @@
-# ensf460
+# ENSF460 Repositoy
 The ENSF460 repository is a comprehensive showcase of embedded programming projects, demonstrating a range of skills from basic GPIO control and ADC data capture to real-time system interactions and user interface design. Each project, performed individually or in groups, offers a unique exploration into the world of microcontrollers, specifically the PIC24F, using tools like MPLAB Simulator, Python, and ANSI C programming. This collection not only highlights technical proficiency in embedded systems but also exhibits creativity and problem-solving abilities in designing practical applications.
 
 # Credits
